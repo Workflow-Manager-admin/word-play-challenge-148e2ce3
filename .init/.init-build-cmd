@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/word-play-challenge-148e2ce3/one_word_play_game_frontend"
+}
